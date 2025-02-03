@@ -12,11 +12,14 @@ Rank 2<br>
 <br>
 Rank 3<br>
 🍝 [philosophers](https://github.com/chilituna/philosophers): the classic dining philosophers problem using threads and mutexes<br>
-🐚 [minishell](https://github.com/chilituna/minishell): developing a simple shell in C that aims to replicate the basic functionality of the Bash shell<br><br>Rank 4<br>🖥️ NetPractice: system administration related exercise to learn networking and subnetting<br>
+🐚 [minishell](https://github.com/chilituna/minishell): developing a simple shell in C that aims to replicate the basic functionality of the Bash shell<br>
+<br>
+Rank 4<br>
+🖥️ NetPractice: system administration related exercise to learn networking and subnetting<br>
 🔅 [miniRT](https://github.com/chilituna/miniRT): exploring ray tracing to create simple computer-generated-images <br>
 <br>
+Rank 5<br>
 👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): a collection of exercises to familiarize with the object oriented programming language C++ <br>
-<br>
 <i>Currently working on:</i><br>
 🛜 WebServ: Group project to write our own HTTP server. 
 
