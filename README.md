@@ -1,5 +1,5 @@
 # 💫 About Me:
-Student at 42 Berlin<br><br>Finished coding projects:<br>
+Student at 42 Berlin<br><br>Finished coding projects:<br><br>
 Rank 0<br>
 📚 [Libft](https://github.com/chilituna/Libft): creating my own C library that includes functions for memory manipulation, string manipulation, and linked list operations<br><br>Rank 1<br>
 ✍️ [ft_printf](https://github.com/chilituna/ft_printf): recoding printf()<br>📖  [get_next_line](https://github.com/chilituna/get_next_line): creating a function to read from fd(s) line by line<br>
