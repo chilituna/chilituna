@@ -20,7 +20,7 @@ Rank 4<br>
 <br>
 Rank 5<br>
 👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): a collection of exercises to familiarize with the object oriented programming language C++ <br>
-🛜 [WebServ](https://github.com/mitadic/webserv/tree/main): Group project to write our own HTTP server <br><br>
+🛜 [WebServ](https://github.com/mitadic/webserv/tree/main): Group project to write our own HTTP server <br>
 🐳 [Inception](https://github.com/chilituna/inception): system administration project using Docker <br>
 <br>
 Rank 6 <br>
