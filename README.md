@@ -21,9 +21,12 @@ Rank 4<br>
 Rank 5<br>
 👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): a collection of exercises to familiarize with the object oriented programming language C++ <br>
 🛜 [WebServ](https://github.com/mitadic/webserv/tree/main): Group project to write our own HTTP server <br><br>
-
+🐳 [Inception](https://github.com/chilituna/inception): system administration project using Docker <br>
+<br>
+Rank 6 <br>
 <i>Currently working on:</i><br>
-🐳 Inception: system administration project using Docker <br>
+🦆 Transcendence: Final project of the core curriculum: Working in a gourp of 4, creating a server-side multiplayer ping-pong game with 3d graphics.
+
 
 
 ## 🌐 Socials:
