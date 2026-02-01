@@ -1,30 +1,38 @@
 # 💫 About Me:
-Student at 42 Berlin<br><br>Finished coding projects:<br><br>
-Rank 0<br>
-📚 [Libft](https://github.com/chilituna/Libft): creating my own C library that includes functions for memory manipulation, string manipulation, and linked list operations<br><br>Rank 1<br>
-✍️ [ft_printf](https://github.com/chilituna/ft_printf): recoding printf()<br>📖  [get_next_line](https://github.com/chilituna/get_next_line): creating a function to read from fd(s) line by line<br>
-🖥️ Born2beroot:  System Administration exercise: setting up a virtual machine with own operating system, while implementing strict rules.<br>
+C/C++ focused software engineering student at 42 Berlin (Core Curriculum completed November 2025). <br>
+Strong background in systems programming, with hands-on experience building complex projects from scratch, and a high level of autonomy and project time management skills.<br>
+Currently developing a cross-DAW C++/JUCE audio plug-in for transient-based slicing and slice-FX step sequencing.<br>
+
+<br><b>Selected Coding Projects (42 Core Curriculum):</b><br><br>
+Foundations (C & low-level programming)<br>
+📚 [Libft](https://github.com/chilituna/Libft): Custom C standard library (memory, strings, linked lists)<br>
+✍️ [ft_printf](https://github.com/chilituna/ft_printf): Reimplementation of printf()<br>
+📖  [get_next_line](https://github.com/chilituna/get_next_line): Buffered file descriptor reading<br>
 <br>
-Rank 2<br>
-🗄️ [push_swap](https://github.com/chilituna/push_swap): creating a program for optimized data sorting <br>
-🎨 [fract-ol](https://github.com/chilituna/fract-ol): coding a program to explore beautiful fractals<br>
-👩‍🔧 [pipex](https://github.com/chilituna/pipex): coding a program that is mimicking the pipe command | in shell<br>
+Systems & UNIX<br>
+🖥️ Born2beroot:  Linux VM setup, security hardening, system configuration.<br>
+👩‍🔧 [pipex](https://github.com/chilituna/pipex): UNIX pipelines, process handling, file descriptors<br>
+🐚 [minishell](https://github.com/chilituna/minishell): Mini Bash shell (parsing, pipes, redirections, signals) <i>(team of 2)</i><br>
 <br>
-Rank 3<br>
-🍝 [philosophers](https://github.com/chilituna/philosophers): the classic dining philosophers problem using threads and mutexes<br>
-🐚 [minishell](https://github.com/chilituna/minishell): developing a simple shell in C that aims to replicate the basic functionality of the Bash shell<br>
+Algorithms & Concurrency<br>
+🗄️ [push_swap](https://github.com/chilituna/push_swap): Optimized sorting algorithms<br>
+🍝 [philosophers](https://github.com/chilituna/philosophers): Multithreading with mutexes and race-condition handling<br>
 <br>
-Rank 4<br>
-🖥️ NetPractice: system administration related exercise to learn networking and subnetting<br>
-🔅 [miniRT](https://github.com/chilituna/miniRT): exploring ray tracing to create simple computer-generated-images <br>
+Graphics & Rendering<br>
+🎨 [fract-ol](https://github.com/chilituna/fract-ol): Real-time fractal rendering<br>
+🔅 [miniRT](https://github.com/chilituna/miniRT): Ray tracing engine (lighting, geometry, camera) <br>
 <br>
-Rank 5<br>
-👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): a collection of exercises to familiarize with the object oriented programming language C++ <br>
-🛜 [WebServ](https://github.com/mitadic/webserv/tree/main): Group project to write our own HTTP server <br>
-🐳 [Inception](https://github.com/chilituna/inception): system administration project using Docker <br>
+Networking, Web & DevOps<br>
+🖥️ NetPractice: TCP/IP, subnetting, network design<br>
+🛜 [WebServ](https://github.com/mitadic/webserv/tree/main): Custom HTTP server (C++) <i>(team of 3)</i><br>
+🐳 [Inception](https://github.com/chilituna/inception): Dockerized services and infrastructure <br>
 <br>
-Rank 6 <br>
-🦆 [Transcendence](https://github.com/tsurma-dev/transcendence): Final project of the core curriculum: Working in a group of 4, creating a server-side multiplayer ping-pong game with 3d graphics.
+C++ & Object-Oriented Programming<br>
+👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): Modern C++ fundamentals (OOP, templates, STL, memory management)<br>
+Final Project <br>
+🦆 [Transcendence](https://github.com/tsurma-dev/transcendence): Multiplayer 3D ping-pong game <i>(team of 4)</i>. Responsible for 3D graphics.
+
+
 
 
 
