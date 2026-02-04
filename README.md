@@ -29,6 +29,7 @@ Networking, Web & DevOps<br>
 <br>
 C++ & Object-Oriented Programming<br>
 👩‍🎓 [C++ modules](https://github.com/chilituna/CPP_Modules): Modern C++ fundamentals (OOP, templates, STL, memory management)<br>
+<br>
 Final Project <br>
 🦆 [Transcendence](https://github.com/tsurma-dev/transcendence): Multiplayer 3D ping-pong game <i>(team of 4)</i>. Responsible for 3D graphics.
 
