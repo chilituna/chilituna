@@ -11,7 +11,7 @@ Berlin, Germany · Open to Opportunities
 I’m a **software engineer with a systems programming background** and a growing focus on **audio and creative technology**.  
 A graduate of **42 Berlin**, where I built full systems from scratch: shells, servers, graphics engines, and multithreaded simulations - all in C and C++.
 
-Now, I’m combining that low‑level foundation with creativity: currently developing a **cross‑DAW C++/JUCE audio plug‑in** for **transient‑based slicing and slice‑FX step sequencing**, in collaboration with a graphic designer/music producer.
+Now, I’m combining that low‑level foundation with creativity: currently developing a **cross‑DAW C++/JUCE audio plug‑in** for **transient‑based slicing and slice‑FX step sequencing**, in collaboration with a graphic designer/music producer.<br>
 #stayTuned #💫
 
 ---
