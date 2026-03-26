@@ -1,7 +1,81 @@
-# 💫 About Me:
-C/C++ focused software engineering student at 42 Berlin (Core Curriculum completed November 2025). <br>
-Strong background in systems programming, with hands-on experience building complex projects from scratch, and a high level of autonomy and project time management skills.<br>
-Currently developing a cross-DAW C++/JUCE audio plug-in for transient-based slicing and slice-FX step sequencing.<br>
+# Alise Arponen
+
+**Junior Software Engineer | Creative Technology & Audio Software**
+
+Berlin, Germany · Open to Opportunities
+
+---
+
+## About Me
+
+I’m a **software engineer with a systems programming background** and a growing focus on **audio and creative technology**.  
+A graduate of **42 Berlin**, where I built full systems from scratch: shells, servers, graphics engines, and multithreaded simulations - all in C and C++.
+
+Now, I’m combining that low‑level foundation with creativity: currently developing a **cross‑DAW C++/JUCE audio plug‑in** for **transient‑based slicing and slice‑FX step sequencing**, in collaboration with a graphic designer/music producer.
+
+---
+
+## 🎶 Current Developing Focus: Audio & Real-Time Systems
+
+- Cross‑DAW plugin development in **C++17 / JUCE**
+- Real‑time DSP, transient detection, and FX playback
+- Focus on low‑latency performance and thread‑safe audio design
+- Applying systems programming to creative and interactive tools
+
+---
+
+## 🧠 Technical Skills
+
+| Domain | Tools & Technologies |
+|:-------|:--------------------|
+| **Languages** | C, C++98/17, JavaScript, TypeScript, Python, Bash |
+| **Audio & Creative Tech** | JUCE, real‑time audio processing, plugin architecture (VST3/AU), DSP fundamentals |
+| **Systems Programming** | POSIX APIs, multithreading, process control, memory management, thread synchronization |
+| **Networking / Backend** | TCP/IP, HTTP handling, asynchronous I/O, routing, Docker, GTest |
+| **Graphics & Math** | Babylon.js, ray tracing, fractals, linear algebra, 3D transformations |
+| **Tools & Environments** | Git, Make, CMake, Linux, Windows |
+
+---
+
+## 📂 Featured Projects
+
+### [webserv](https://github.com/chilituna/webserv)
+HTTP/1.1 server in **C++98** with asynchronous I/O, configuration parsing, routing, and CGI.  
+Includes **unit tests (GTest)** and supports multiplexed connections.  
+🧩 *Team of 3*
+
+### [minishell](https://github.com/chilituna/minishell)
+POSIX‑compliant shell in C: parsing, signals, pipes, and process control.  
+🤝 *Pair project*
+
+### [philosophers](https://github.com/chilituna/philosophers)
+Multithreaded simulation using mutexes and timing control to prevent deadlocks.  
+👩‍💻 *Solo project*
+
+### [miniRT](https://github.com/chilituna/miniRT)
+Compact **ray tracer** in C demonstrating geometric math and performance optimization.  
+🎨 *Pair project*
+
+### [ft_transcendence](https://github.com/chilituna/ft_transcendence)
+Full‑stack multiplayer web app implemented in **TypeScript** with **Babylon.js 3D graphics**.  
+🌐 *Team of 4*
+
+### [Inception](https://github.com/chilituna/Inception)
+Containerized system services with **Docker**. Infrastructure and process orchestration from scratch.  
+⚙️ *Solo project*
+
+---
+
+
+## 🎓 42 Berlin Highlights
+
+- Systems programming in C (memory, processes, signals)
+- Networking & backend (HTTP, sockets, async I/O)
+- Concurrency & synchronization
+- 3D graphics and mathematical modeling
+- Team collaboration and full‑stack development
+
+All projects built **from scratch**, emphasizing deep understanding and performance‑oriented design.
 
 <br><b>Selected Coding Projects (42 Core Curriculum):</b><br><br>
 Foundations (C & low-level programming)<br>
@@ -33,19 +107,17 @@ C++ & Object-Oriented Programming<br>
 Final Project <br>
 🦆 [Transcendence](https://github.com/tsurma-dev/transcendence): Multiplayer 3D ping-pong game <i>(team of 4)</i>. Responsible for 3D graphics.
 
+---
+
+## 🤝 Contact
+
+Actively exploring opportunities in **audio software** and **creative technology** — plugin development, real‑time systems, and interactive music tools.
+
+- 💼 [LinkedIn](https://linkedin.com/in/alise-arponen)
+
+[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AliseA_Music) 
 
 
-
-
-## 🌐 Socials:
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/alise-arponen) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AliseA_Music) 
-
-<!--# 💻 Tech Stack:
-![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white) ![Shell Script](https://img.shields.io/badge/shell_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white) ![Adobe Premiere Pro](https://img.shields.io/badge/Adobe%20Premiere%20Pro-9999FF.svg?style=for-the-badge&logo=Adobe%20Premiere%20Pro&logoColor=white) ![Adobe Photoshop](https://img.shields.io/badge/adobe%20photoshop-%2331A8FF.svg?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Gimp](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF) ![Confluence](https://img.shields.io/badge/confluence-%23172BF4.svg?style=for-the-badge&logo=confluence&logoColor=white) ![Notion](https://img.shields.io/badge/Notion-%23000000.svg?style=for-the-badge&logo=notion&logoColor=white) ![Trello](https://img.shields.io/badge/Trello-%23026AA7.svg?style=for-the-badge&logo=Trello&logoColor=white) -->
-# 📊 GitHub Stats:
-<!-- ![](https://github-readme-stats.vercel.app/api?username=chilituna&theme=omni&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=chilituna&theme=omni&hide_border=false)<br/> -->
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=chilituna&theme=omni&hide_border=false&include_all_commits=false&count_private=false&layout=compact) 
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chilituna&icon=9&color=10)](https://visitcount.itsvg.in)
@@ -53,5 +125,3 @@ Final Project <br>
   ## 💰 You can help me by Donating
   [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/chilituna) 
 
-  
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
