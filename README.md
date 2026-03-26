@@ -114,10 +114,7 @@ Final Project <br>
 Actively exploring opportunities in **audio software** and **creative technology** — plugin development, real‑time systems, and interactive music tools.
 
 - 💼 [LinkedIn](https://linkedin.com/in/alise-arponen)
-
-[![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://www.youtube.com/@AliseA_Music) 
-
-
+- 🎧 Since you made it this far, here’s my [YouTube channel](https://www.youtube.com/@AliseA_Music) if you’d like to listen to some of my music.
 
 ---
 [![](https://visitcount.itsvg.in/api?id=chilituna&icon=9&color=10)](https://visitcount.itsvg.in)
