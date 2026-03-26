@@ -111,7 +111,7 @@ Final Project <br>
 
 ## 🤝 Contact
 
-Actively exploring opportunities in **audio software** and **creative technology** — plugin development, real‑time systems, and interactive music tools.
+Actively exploring opportunities in **audio software** and **creative technology** (plugin development, real‑time systems, interactive music tools ...)
 
 - 💼 [LinkedIn](https://linkedin.com/in/alise-arponen)
 - 🎧 Since you made it this far, here’s my [YouTube channel](https://www.youtube.com/@AliseA_Music) if you’d like to listen to some of my music.
