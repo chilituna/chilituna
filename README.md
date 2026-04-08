@@ -40,7 +40,7 @@ Now, I’m combining that low‑level foundation with creativity: currently deve
 
 ## 📂 Featured Projects
 
-### [webserv](https://github.com/chilituna/webserv)
+### [webserv](https://github.com/mitadic/webserv/tree/main)
 HTTP/1.1 server in **C++98** with asynchronous I/O, configuration parsing, routing, and CGI.  
 Includes **unit tests (GTest)** and supports multiplexed connections.  
 🧩 *Team of 3*
@@ -57,7 +57,7 @@ Multithreaded simulation using mutexes and timing control to prevent deadlocks.
 Compact **ray tracer** in C demonstrating geometric math and performance optimization.  
 🎨 *Pair project*
 
-### [ft_transcendence](https://github.com/chilituna/ft_transcendence)
+### [ft_transcendence](https://github.com/tsurma-dev/transcendence)
 Full‑stack multiplayer web app implemented in **TypeScript** with **Babylon.js 3D graphics**.  
 🌐 *Team of 4*
 
