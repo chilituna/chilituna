@@ -1,6 +1,6 @@
 # Alise Arponen
 
-**Junior Software Engineer | Creative Technology & Audio Software**
+**Software Engineer | Audio, Systems & Creative Technology**
 
 Berlin, Germany · Open to Opportunities
 
@@ -8,20 +8,20 @@ Berlin, Germany · Open to Opportunities
 
 ## About Me
 
-I’m a **software engineer with a systems programming background** and a growing focus on **audio and creative technology**.  
-A graduate of **42 Berlin**, where I built full systems from scratch: shells, servers, graphics engines, and multithreaded simulations - all in C and C++.
+I’m a software engineer with a strong foundation in **systems programming (C/C++)**, now focusing on **audio software and real-time systems**.
 
-Now, I’m combining that low‑level foundation with creativity: currently developing a **cross‑DAW C++/JUCE audio plug‑in** for **transient‑based slicing and slice‑FX step sequencing**, in collaboration with a graphic designer/music producer.<br>
-#stayTuned #💫
+At **42 Berlin**, I built low-level systems from scratch: including shells, HTTP servers, graphics engines, and multithreaded simulations, with a focus on **performance, memory, and concurrency**.
+
+I’m currently developing a **cross-DAW audio plug-in (C++ / JUCE)** for **transient-based slicing and slice-FX sequencing**, combining real-time DSP with creative workflows, in collaboration with a graphic designer/music producer.<br> #stayTuned #💫
 
 ---
 
 ## 🎶 Current Developing Focus: Audio & Real-Time Systems
 
-- Cross‑DAW plugin development in **C++17 / JUCE**
+- C++17 / JUCE plugin development (VST3 / AU)
 - Real‑time DSP, transient detection, and FX playback
-- Focus on low‑latency performance and thread‑safe audio design
-- Applying systems programming to creative and interactive tools
+- Low-latency, thread-safe audio design
+- Bridging systems programming with creative tools
 
 ---
 
@@ -29,12 +29,13 @@ Now, I’m combining that low‑level foundation with creativity: currently deve
 
 | Domain | Tools & Technologies |
 |:-------|:--------------------|
-| **Languages** | C, C++98/17, JavaScript, TypeScript, Python, Bash |
+| **Languages** | C, C++98/17, JavaScript, TypeScript, Python, Bash, Dart |
 | **Audio & Creative Tech** | JUCE, real‑time audio processing, plugin architecture (VST3/AU), DSP fundamentals |
 | **Systems Programming** | POSIX APIs, multithreading, process control, memory management, thread synchronization |
-| **Networking / Backend** | TCP/IP, HTTP handling, asynchronous I/O, routing, Docker, GTest |
+| **Networking / Backend** | TCP/IP, HTTP handling, async I/O, routing, Docker, GTest |
 | **Graphics & Math** | Babylon.js, ray tracing, fractals, linear algebra, 3D transformations |
 | **Tools & Environments** | Git, Make, CMake, Linux, Windows |
+| **Mobile Development** | Flutter (UI, state management, responsive design) |
 
 ---
 
@@ -66,6 +67,13 @@ Containerized system services with **Docker**. Infrastructure and process orches
 ⚙️ *Solo project*
 
 ---
+
+## 🚀 Recent Work
+
+<b> Flutter Projects</b>
+
+🌤️ [Weather App](https://github.com/chilituna/weather_app): A clean and responsive weather application built with Flutter, featuring real-time forecasts and a polished UI.<br>
+🧮 [Mobile Calculator](https://github.com/chilituna/mobile_calculator): A minimal and functional calculator app focusing on simplicity, state management, and UI clarity.
 
 
 ## 🎓 42 Berlin Highlights
