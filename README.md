@@ -44,27 +44,27 @@ I’m currently developing a **cross-DAW audio plug-in (C++ / JUCE)** for **tran
 ### [webserv](https://github.com/mitadic/webserv/tree/main)
 HTTP/1.1 server in **C++98** with asynchronous I/O, configuration parsing, routing, and CGI.  
 Includes **unit tests (GTest)** and supports multiplexed connections.  
-🧩 *Team of 3*
+*Team of 3*
 
 ### [minishell](https://github.com/chilituna/minishell)
 POSIX‑compliant shell in C: parsing, signals, pipes, and process control.  
-🤝 *Pair project*
+*Pair project*
 
 ### [philosophers](https://github.com/chilituna/philosophers)
 Multithreaded simulation using mutexes and timing control to prevent deadlocks.  
-👩‍💻 *Solo project*
+*Solo project*
 
 ### [miniRT](https://github.com/chilituna/miniRT)
 Compact **ray tracer** in C demonstrating geometric math and performance optimization.  
-🎨 *Pair project*
+*Pair project*
 
 ### [ft_transcendence](https://github.com/tsurma-dev/transcendence)
 Full‑stack multiplayer web app implemented in **TypeScript** with **Babylon.js 3D graphics**.  
-🌐 *Team of 4*
+*Team of 4*
 
 ### [Inception](https://github.com/chilituna/Inception)
 Containerized system services with **Docker**. Infrastructure and process orchestration from scratch.  
-⚙️ *Solo project*
+*Solo project*
 
 ---
 
@@ -86,7 +86,7 @@ Containerized system services with **Docker**. Infrastructure and process orches
 
 All projects built **from scratch**, emphasizing deep understanding and performance‑oriented design.
 
-<br><b>Selected Coding Projects (42 Core Curriculum):</b><br><br>
+<br><b>Coding Projects (42 Core Curriculum):</b><br><br>
 Foundations (C & low-level programming)<br>
 📚 [Libft](https://github.com/chilituna/Libft): Custom C standard library (memory, strings, linked lists)<br>
 ✍️ [ft_printf](https://github.com/chilituna/ft_printf): Reimplementation of printf()<br>
